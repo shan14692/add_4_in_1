@@ -5,6 +5,7 @@ import 'package:math_expressions/math_expressions.dart';
 import 'dart:math' as math;
 
 import 'package:merged_flutter_project/calculator/colors.dart';
+// import 'package:shahin/Calculator/colors.dart';
 
 // Calculate a color with a given opacity
 Color colorWithOpacity(Color color, double opacity) {

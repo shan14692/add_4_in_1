@@ -4,11 +4,11 @@ import 'package:flutter/material.dart';
 // import 'package:folio/configs/app_theme.dart';
 // import 'package:folio/provider/app_provider.dart';
 // import 'package:folio/provider/scroll_provider.dart';
-import 'package:merged_flutter_project/portfolio/animations/entrance_fader.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/provider/app_provider.dart';
-import 'package:merged_flutter_project/portfolio/provider/scroll_provider.dart';
+import 'package:merged_flutter_project/Portfolio/animations/entrance_fader.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/provider/app_provider.dart';
+import 'package:merged_flutter_project/Portfolio/provider/scroll_provider.dart';
 import 'package:provider/provider.dart';
 
 class ArrowOnTop extends StatefulWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 // import 'package:folio/configs/app_typography.dart';
 // import 'package:folio/provider/app_provider.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/provider/app_provider.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/provider/app_provider.dart';
 import 'package:provider/provider.dart';
 
 class AboutMeData extends StatelessWidget {

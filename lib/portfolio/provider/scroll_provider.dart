@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 // import 'package:folio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
 
 class ScrollProvider extends ChangeNotifier {
   final scrollController = ScrollController();

@@ -5,13 +5,13 @@ import 'package:flutter/material.dart';
 // import 'package:folio/utils/utils.dart';
 
 // import 'package:folio/widget/social_links.dart';
-import 'package:merged_flutter_project/portfolio/animations/entrance_fader.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/widget/social_links.dart';
+import 'package:merged_flutter_project/Portfolio/animations/entrance_fader.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/widget/social_links.dart';
 
 class HomeTab extends StatelessWidget {
   const HomeTab({Key? key}) : super(key: key);
@@ -74,14 +74,14 @@ class HomeTab extends StatelessWidget {
                 ),
                 Space.y1!,
                 Text(
-                  "Zubayer",
+                  "Md. Mosharraf ",
                   style: AppText.h1!.copyWith(
                     fontFamily: 'Montserrat',
                     fontWeight: FontWeight.w100,
                   ),
                 ),
                 Text(
-                  "Al Kadir",
+                  "Hossain Chowdhury",
                   style: AppText.h1b!.copyWith(
                     height: 1,
                   ),

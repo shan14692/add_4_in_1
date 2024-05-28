@@ -4,18 +4,18 @@
 // import 'package:folio/utils/work_utils.dart';
 
 // import 'package:folio/widget/custom_text_heading.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/constants.dart';
-import 'package:merged_flutter_project/portfolio/utils/about_utils.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/utils/work_utils.dart';
-import 'package:merged_flutter_project/portfolio/widget/about_me_data.dart';
-import 'package:merged_flutter_project/portfolio/widget/community_button.dart';
-import 'package:merged_flutter_project/portfolio/widget/custom_text_heading.dart';
-import 'package:merged_flutter_project/portfolio/widget/tech_widget.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/constants.dart';
+import 'package:merged_flutter_project/Portfolio/utils/about_utils.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/utils/work_utils.dart';
+import 'package:merged_flutter_project/Portfolio/widget/about_me_data.dart';
+import 'package:merged_flutter_project/Portfolio/widget/community_button.dart';
+import 'package:merged_flutter_project/Portfolio/widget/custom_text_heading.dart';
+import 'package:merged_flutter_project/Portfolio/widget/tech_widget.dart';
 import 'package:universal_html/html.dart' as html;
 import 'package:flutter/material.dart';
 // import 'package:folio/constants.dart';
@@ -110,7 +110,7 @@ class AboutTab extends StatelessWidget {
                 children: const [
                   AboutMeData(
                     data: "Name",
-                    information: "Zubayer Al Kadir",
+                    information: "Md. Mosharraf Hossain Chowdhury",
                   ),
                   AboutMeData(
                     data: "Age",
@@ -126,11 +126,11 @@ class AboutTab extends StatelessWidget {
                 children: const [
                   AboutMeData(
                     data: "Email",
-                    information: "kadir15-14730@diu.edu.bd",
+                    information: "mosharraf15-14692@diu.edu.bd",
                   ),
                   AboutMeData(
                     data: "From",
-                    information: "DHAKA",
+                    information: "DHAKA,BANGLADESH",
                   ),
                 ],
               ),

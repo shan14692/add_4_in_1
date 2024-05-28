@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 // import 'package:folio/configs/configs.dart';
 // import 'package:folio/constants.dart';
 // import 'package:folio/provider/app_provider.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/constants.dart';
-import 'package:merged_flutter_project/portfolio/provider/app_provider.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/constants.dart';
+import 'package:merged_flutter_project/Portfolio/provider/app_provider.dart';
 
 import 'package:provider/provider.dart';
 

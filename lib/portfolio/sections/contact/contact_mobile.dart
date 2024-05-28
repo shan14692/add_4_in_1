@@ -4,10 +4,10 @@ import 'package:flutter/material.dart';
 // import 'package:folio/utils/contact_utils.dart';
 // import 'package:folio/widget/custom_text_heading.dart';
 // import 'package:folio/widget/project_card.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/utils/contact_utils.dart';
-import 'package:merged_flutter_project/portfolio/widget/custom_text_heading.dart';
-import 'package:merged_flutter_project/portfolio/widget/project_card.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/utils/contact_utils.dart';
+import 'package:merged_flutter_project/Portfolio/widget/custom_text_heading.dart';
+import 'package:merged_flutter_project/Portfolio/widget/project_card.dart';
 
 class ContactMobileTab extends StatelessWidget {
   const ContactMobileTab({Key? key}) : super(key: key);

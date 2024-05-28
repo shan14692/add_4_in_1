@@ -50,16 +50,16 @@ class ProjectUtils {
   ];
 
   static const List<String> links = [
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
-    "https://github.com/zubayer14730",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
   ];
 }

@@ -14,8 +14,8 @@ class ContactUtils {
   ];
 
   static const List<String> details = [
-    "DHAKA",
-    "01776160675",
-    "kadir15-14730@diu.edu.bd",
+    "DHAKA,BANGLADESH",
+    "01845165622",
+    "mosharraf15-14692@diu.edu.bd",
   ];
 }

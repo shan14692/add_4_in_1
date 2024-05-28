@@ -4,13 +4,13 @@ import 'package:flutter/material.dart';
 // import 'package:folio/provider/app_provider.dart';
 // import 'package:folio/responsive/responsive.dart';
 // import 'package:folio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/constants.dart';
-import 'package:merged_flutter_project/portfolio/provider/app_provider.dart';
-import 'package:merged_flutter_project/portfolio/responsive/responsive.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/constants.dart';
+import 'package:merged_flutter_project/Portfolio/provider/app_provider.dart';
+import 'package:merged_flutter_project/Portfolio/responsive/responsive.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
 import 'package:provider/provider.dart';
 
 class SocialLinks extends StatelessWidget {

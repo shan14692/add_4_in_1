@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 // import 'package:folio/configs/configs.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/configs/ui.dart';
-import 'package:merged_flutter_project/portfolio/configs/ui_props.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/configs/ui.dart';
+import 'package:merged_flutter_project/Portfolio/configs/ui_props.dart';
 
 class App {
   static bool? isLtr;

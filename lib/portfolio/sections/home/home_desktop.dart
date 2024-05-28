@@ -5,13 +5,13 @@ import 'package:flutter/material.dart';
 
 // import 'package:folio/utils/utils.dart';
 // import 'package:folio/widget/social_links.dart';
-import 'package:merged_flutter_project/portfolio/animations/entrance_fader.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/widget/social_links.dart';
+import 'package:merged_flutter_project/Portfolio/animations/entrance_fader.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/widget/social_links.dart';
 
 class HomeDesktop extends StatelessWidget {
   const HomeDesktop({Key? key}) : super(key: key);
@@ -75,7 +75,7 @@ class HomeDesktop extends StatelessWidget {
                 ),
                 Space.y1!,
                 Text(
-                  "Zubayer",
+                  "Md. Mosharraf",
                   style: AppText.h1!.copyWith(
                     fontFamily: 'Montserrat',
                     fontSize: AppDimensions.normalize(25),
@@ -83,7 +83,7 @@ class HomeDesktop extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  "AL Kadir",
+                  "Hossain Chowdhury",
                   style: AppText.h1b!.copyWith(
                     fontSize: AppDimensions.normalize(25),
                     height: 1,

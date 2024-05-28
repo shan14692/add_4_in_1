@@ -5,14 +5,14 @@ import 'package:flutter/material.dart';
 // import 'package:folio/utils/utils.dart';
 // import 'package:folio/widget/custom_text_heading.dart';
 // import 'package:folio/widget/project_card.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/space.dart';
-import 'package:merged_flutter_project/portfolio/constants.dart';
-import 'package:merged_flutter_project/portfolio/utils/project_utils.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/widget/custom_text_heading.dart';
-import 'package:merged_flutter_project/portfolio/widget/project_card.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/space.dart';
+import 'package:merged_flutter_project/Portfolio/constants.dart';
+import 'package:merged_flutter_project/Portfolio/utils/project_utils.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/widget/custom_text_heading.dart';
+import 'package:merged_flutter_project/Portfolio/widget/project_card.dart';
 
 class PortfolioDesktop extends StatefulWidget {
   const PortfolioDesktop({Key? key}) : super(key: key);

@@ -19,7 +19,7 @@ class CombinedApps extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Combined Flutter Apps',
+      title: 'Combined Apps',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Combined Flutter Apps'),
+        title: Text('Combined Apps'),
       ),
       body: Center(
         child: Column(
@@ -70,7 +70,7 @@ class HomeScreen extends StatelessWidget {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Weather_1()),
+                  MaterialPageRoute(builder: (context) => WeatherApp()),
                 );
               },
               child: Text('Weather App'),

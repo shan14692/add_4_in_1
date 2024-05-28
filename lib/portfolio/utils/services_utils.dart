@@ -1,5 +1,5 @@
 // import 'package:folio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
 
 class ServicesUtils {
   static const List<String> servicesIcons = [

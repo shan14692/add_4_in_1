@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 // import 'package:folio/configs/app_dimensions.dart';
 // import 'package:folio/configs/app_theme.dart';
 // import 'package:folio/configs/app_typography.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_theme.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_typography.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_typography.dart';
 
 class ToolTechWidget extends StatelessWidget {
   final String techName;

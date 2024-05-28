@@ -5,12 +5,12 @@ import 'package:flutter/material.dart';
 // import 'package:folio/sections/portfolio/portfolio.dart';
 // import 'package:folio/sections/services/services.dart';
 // import 'package:folio/widget/footer.dart';
-import 'package:merged_flutter_project/portfolio/sections/about/about.dart';
-import 'package:merged_flutter_project/portfolio/sections/contact/contact.dart';
-import 'package:merged_flutter_project/portfolio/sections/home/home.dart';
-import 'package:merged_flutter_project/portfolio/sections/portfolio/portfolio.dart';
-import 'package:merged_flutter_project/portfolio/sections/services/services.dart';
-import 'package:merged_flutter_project/portfolio/widget/footer.dart';
+import 'package:merged_flutter_project/Portfolio/sections/about/about.dart';
+import 'package:merged_flutter_project/Portfolio/sections/contact/contact.dart';
+import 'package:merged_flutter_project/Portfolio/sections/home/home.dart';
+import 'package:merged_flutter_project/Portfolio/sections/portfolio/portfolio.dart';
+import 'package:merged_flutter_project/Portfolio/sections/services/services.dart';
+import 'package:merged_flutter_project/Portfolio/widget/footer.dart';
 
 class StaticUtils {
   static const String hi = 'assets/hi.gif';
@@ -38,9 +38,9 @@ class StaticUtils {
 
   static const List<String> socialLinks = [];
 
-  static const String resume = 'https://github.com/zubayer14730';
+  static const String resume = 'https://github.com/shan14692';
 
-  static const String gitHub = 'https://github.com/zubayer14730';
+  static const String gitHub = 'https://github.com/shan14692';
 }
 
 class BodyUtils {

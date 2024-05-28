@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
+// import 'package:folio/provider/app_provider.dart';
+// import 'package:folio/provider/drawer_provider.dart';
+// import 'package:folio/provider/scroll_provider.dart';
+// import 'package:folio/sections/main/main_section.dart';
+import 'package:merged_flutter_project/Portfolio/provider/app_provider.dart';
+import 'package:merged_flutter_project/Portfolio/provider/drawer_provider.dart';
+import 'package:merged_flutter_project/Portfolio/provider/scroll_provider.dart';
+import 'package:merged_flutter_project/Portfolio/sections/main/main_section.dart';
 import 'package:provider/provider.dart';
 import 'package:url_strategy/url_strategy.dart';
-import 'package:merged_flutter_project/portfolio/provider/app_provider.dart';
-import 'package:merged_flutter_project/portfolio/provider/drawer_provider.dart';
-import 'package:merged_flutter_project/portfolio/provider/scroll_provider.dart';
-import 'package:merged_flutter_project/portfolio/sections/main/main_section.dart';
 import 'package:merged_flutter_project/portfolio/configs/core_theme.dart'
     as theme;
 
@@ -63,7 +67,7 @@ class _MaterialChildState extends State<MaterialChild> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Zubayer',
+      title: 'Mosharraf',
       theme: theme.themeLight,
       darkTheme: theme.themeDark,
       themeMode: widget.provider.themeMode,

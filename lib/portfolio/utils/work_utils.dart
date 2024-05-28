@@ -1,5 +1,5 @@
 // import 'package:folio/utils/utils.dart';
-import 'package:merged_flutter_project/portfolio/utils/utils.dart';
+import 'package:merged_flutter_project/Portfolio/utils/utils.dart';
 
 class WorkUtils {
   static const List<String> logos = [
@@ -10,10 +10,10 @@ class WorkUtils {
   ];
 
   static const List<String> communityLinks = [
-    "https://www.comsats.edu.pk/",
-    "https://web.facebook.com/FlutterIslamabadPakistan/",
-    "https://dsc.community.dev/comsats-university-islamabad/",
-    "https://sastaticket.pk/"
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692",
+    "https://github.com/shan14692"
   ];
 
   static const List<double> communityLogoHeight = [60.0, 70.0, 30.0, 70.0];

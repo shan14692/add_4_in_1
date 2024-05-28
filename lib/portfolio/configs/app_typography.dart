@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 // import 'package:folio/configs/configs.dart';
-import 'package:merged_flutter_project/portfolio/configs/app_dimensions.dart';
-import 'package:merged_flutter_project/portfolio/configs/core_theme.dart';
+import 'package:merged_flutter_project/Portfolio/configs/app_dimensions.dart';
+import 'package:merged_flutter_project/Portfolio/configs/core_theme.dart';
 
 class AppText {
   static TextStyle? btn;
